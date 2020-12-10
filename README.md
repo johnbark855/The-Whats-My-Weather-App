@@ -16,8 +16,6 @@
     -Then the app will simplify the weather with icons.
     Here is a screenshot of the application:
     
-<img src = https://dm2305files.storage.live.com/y4mZW-XVgCpeUGT_XyQgEK8m-H0B55Q2rHc-jUO-NNDWJg4C3hhMrUgBZhAbhUY_aGDE9KbSkXlcNWdPmQqtnuiC9hEv5teD4GqxXfah_0-tjVeX-LShZO7H4AOUKpyTaky8ex268ktwxGire-g2pDL1ji0_c6hG9Tiy6YJzu51e50VZwfGdhV8geVecyivJd3n?width=660&height=510&cropmode=none/>
-    
-    
+    ![image](https://user-images.githubusercontent.com/72668325/101750779-7c9ef200-3a9d-11eb-9df6-88cad1159965.png)
     
     Here is the URL of the website: https://johnbark855.github.io/The-Whats-My-Weather-App/
