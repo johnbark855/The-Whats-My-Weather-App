@@ -16,8 +16,7 @@
     -Then the app will simplify the weather with icons.
     Here is a screenshot of the application:
     
-    
-    <img src="https://dm2305files.storage.live.com/y4mZW-XVgCpeUGT_XyQgEK8m-H0B55Q2rHc-jUO-NNDWJg4C3hhMrUgBZhAbhUY_aGDE9KbSkXlcNWdPmQqtnuiC9hEv5teD4GqxXfah_0-tjVeX-LShZO7H4AOUKpyTaky8ex268ktwxGire-g2pDL1ji0_c6hG9Tiy6YJzu51e50VZwfGdhV8geVecyivJd3n?width=1251&height=966&cropmode=none" width="1251" height="966" />
+    <img src="https://dm2305files.storage.live.com/y4mZW-XVgCpeUGT_XyQgEK8m-H0B55Q2rHc-jUO-NNDWJg4C3hhMrUgBZhAbhUY_aGDE9KbSkXlcNWdPmQqtnuiC9hEv5teD4GqxXfah_0-tjVeX-LShZO7H4AOUKpyTaky8ex268ktwxGire-g2pDL1ji0_c6hG9Tiy6YJzu51e50VZwfGdhV8geVecyivJd3n?width=1251&height=966&cropmode=none" width="1251" height="966"/>
     
     
     
