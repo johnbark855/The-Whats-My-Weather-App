@@ -1,6 +1,6 @@
 # The-Whats-My-Weather-App
 <h1>GOALS<h1>
-  the goals of this project was to use a weather api to make a fully functioning dashboard that responds to the location inputed into the search bar.
+  The goals of this project was to use a weather api to make a fully functioning dashboard that responds to the location inputed into the search bar.
   This weather application has the following features
   -Sleek responsive display
   -Icons to correspond with the current weather (sunny, cloudy, rain, etc.)
