@@ -14,7 +14,8 @@
     -Then the app will tell me the temperature
     -When I recieve the weather and temperature
     -Then the app will simplify the weather with icons.
-    Here is a screenshot of the application:
+   
+   Here is a screenshot of the application
     
     ![image](https://user-images.githubusercontent.com/72668325/101750779-7c9ef200-3a9d-11eb-9df6-88cad1159965.png)
     
