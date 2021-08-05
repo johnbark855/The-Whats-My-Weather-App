@@ -14,6 +14,13 @@
     -Then the app will tell me the temperature
     -When I recieve the weather and temperature
     -Then the app will simplify the weather with icons.
+    
+    Technologies used:
+<ul>
+<li>HTML</li> 
+<li>CSS</li>
+<li>Javascript</li>
+</ul>
    
 Here is a screenshot of the website:
 
